@@ -44,7 +44,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #BD5D38;
+  color: #6BAFC5;
 }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
@@ -52,7 +52,7 @@ h2 {
 .list-icons {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
-    color: #BD5D38; }
+    color: #6BAFC5; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
